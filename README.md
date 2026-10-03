@@ -6,6 +6,10 @@ This is a basic program that draws VGA graphics with x86 assembly.
 
 Use the script attached?
 
+# Screenshot
+
+![Screenshot of rendered colours](./media/screenshot.png)
+
 # Source?
 
 [this youtube video](https://www.youtube.com/watch?v=JhkkyQOtqkg)
